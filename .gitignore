@@ -2,3 +2,5 @@
 *.rtf
 # Ignore word files in development
 *.pages
+# Ignore checkpoint files
+.ipynb_checkpoints/*
